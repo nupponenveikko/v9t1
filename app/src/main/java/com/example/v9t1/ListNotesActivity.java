@@ -10,7 +10,6 @@ public class ListNotesActivity extends AppCompatActivity {
     RecyclerView ListNotesRV;
     Button BackButton;
     NoteAdapter adapter;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
